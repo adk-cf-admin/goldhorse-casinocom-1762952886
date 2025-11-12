@@ -1,0 +1,205 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#121922",
+            "lang-select-color": "#222829",
+            "bg-light": "#DAB26C",
+            "welcome-bonus-bg": "#F5ECDA",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#121922",
+            "text": "#D19D34",
+            "text-black": "#121922",
+            "table-head": "#DAB26C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#f40101",
+            "yellow": "#0E4F34",
+            "yellow-button": "#D19D34",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#F5ECDA",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#FBF6EF",
+            "faq-label": "#FBF6EF",
+            "bg-footer": "#121922",
+            "copyright": "#e7e7d5",
+            "starColor": "#0E4F34",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Gold Horse Casino",
+            "title": "Gold Horse Casino | Slots, Table Games, Shows & Dining in Lloydminster",
+            "description": "Welcome to Gold Horse Casino \u2014 a modern venue offering slots, live table games, entertainment, dining, and seasonal events. Discover bonuses, nightlife, and nearby hotels for a perfect night out.\n",
+            "canonical": "goldhorse-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/496",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "goldhorse-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/497",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/498"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/499",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Gold Horse Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Gold Horse Casino \u2013 Gaming, Dining & Entertainment in Lloydminster",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/494",
+            "imageSizeModifier": 10,
+            "imageYModifier": -4,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/495",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Over 250 modern slot machines",
+                "Live tables: blackjack, poker, roulette",
+                "Electronic games: baccarat, roulette, poker",
+                "Progressive jackpots with big winnings",
+                "Loyalty program with exclusive bonuses",
+                "Restaurant and bar with cozy vibe",
+                "Friendly staff and clean interior"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Gold Horse Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/501",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Gold Horse Casino App",
+            "mobileGooglePlayImageTitle": "Gold Horse Casino App",
+            "mobileIosImageTitle": "Gold Horse Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Gold Horse Casino",
+                "description1": "",
+                "items": [
+                    "Jackpot up to 1,000,000 CAD",
+                    "Bonus up to 250,000 CAD from SIGA",
+                    "Free play worth 10 CAD"
+                ],
+                "description2": "Gold Horse Casino is a modern entertainment venue offering a wide range of gambling options and a comfortable atmosphere. Guests enjoy slot machines, live tables, and electronic games. The casino is known for generous bonuses and frequent big wins. A cozy restaurant and bar enhance the experience. The loyalty program rewards regular visitors. Staff are friendly and helpful. It\u2019s a great place for a fun night and good luck.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/502",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "A Golden Chance for Fun",
+                "description": "<p>Gold Horse Casino is a modern gaming destination located in Lloydminster, right on the border of Saskatchewan and Alberta. It has become a vibrant hub for gaming enthusiasts, food lovers, and fans of live entertainment. The spacious venue, covering nearly 50,000 square feet, offers a stylish interior, a welcoming atmosphere, and attentive service that makes every visit memorable.\n<\/p>\n<br>\n<p> The gaming floor features over 250 slot machines, live tables for blackjack, poker, and roulette, as well as electronic terminals with digital versions of popular games. The casino frequently hosts promotions with progressive jackpots and cash prize draws. Seasonal events like \u201cSpooky Spins\u201d on Halloween and \u201cProgressive Quick Draws\u201d add excitement and variety to the experience.\n<\/p>\n<br>\n<p>On-site, guests can enjoy a cozy restaurant and bar serving local cuisine, including steak and lobster, along with refreshing drinks. Evenings are often enhanced by live performances, including concerts by well-known Canadian artists like The Johner Brothers, especially during festive occasions like New Year\u2019s Eve.\n<\/p>\n<br>\n<p>While there is no hotel directly on the premises, several nearby accommodations offer comfortable lodging for casino guests. Conveniently located off Highway 16, the casino is easily accessible to both locals and travelers.\n<\/p>\n<br>\n<p> The SIGA Rewards loyalty program allows players to earn points, enjoy free play, receive restaurant discounts, and enter exclusive draws. Registration is simple and free, and membership unlocks a wide range of benefits.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Prepare for Your Casino Visit\n<\/h3>\n\n<p> Visiting a casino is not just about gaming \u2014 it\u2019s a special occasion that calls for respect toward the venue\u2019s atmosphere. To avoid any inconvenience and feel confident, it\u2019s important to understand the basic rules, dress code, and entry requirements beforehand.\n<\/p>\n<br><p> Most casinos follow a \u201csmart style\u201d policy, meaning your attire should be neat, clean, and appropriate for the setting. While daytime visits may allow more relaxed clothing, evenings typically require a more elegant look. Casinos aim to maintain a comfortable and respectable environment, and guest appearance plays a key role in that.\n<\/p>\n<br>\n<p> Proper etiquette is also expected: respect for staff, fellow players, and the gaming process is essential. Entry is allowed only for adults, and ID may be required at the door.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">General Visitor Rules<\/h4>\n\n <ul>\n            <li>\u2022 Entry allowed from age 18+ (or 19+, depending on region)\n<\/li>\n            <li>\u2022 No aggressive or disruptive behavior\n<\/li>\n            <li>\u2022 Photography of gaming tables and staff is prohibited\n<\/li>\n\t    <li>\u2022 Respect other players\u2019 personal space\n\n<\/li>\n        <\/ul><br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n            <ul>\n            <li>\u2022 Men: collared shirt, trousers, dress shoes\n<\/li>\n            <li>\u2022 Women: dress, blouse with skirt or pants\n<\/li>\n            <li>\u2022 Not allowed: shorts, sportswear, beach sandals, torn or dirty clothing\n<\/li>\n            <li>\u2022 Evening visits call for more formal attire\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Entry Conditions<\/h4>\n        <ul>\n            <li>\u2022 ID check may be required\n<\/li>\n            <li>\u2022 Non-compliance with dress code may result in denied entry\n<\/li>\n            <li>\u2022 VIP areas and tournaments may require stricter dress standards\n\n<\/li>\n        <\/ul>\n        <br>\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSIGA Rewards: Your Path to Exclusive Benefits\n<\/h3>\n\n<p> The SIGA Rewards loyalty program is a revamped player rewards system designed with guest feedback in mind. Available at all seven SIGA casinos, including Gold Horse Casino, it offers personalized bonuses, exclusive offers, and convenient digital access via a mobile app and website.\n<\/p>\n<br>\n<p> SIGA Rewards features four tiers: Emerald, Gold, Platinum, and Diamond. Each tier unlocks new privileges, including restaurant discounts, access to exclusive events, priority service, and special prize draws. Players earn tier credits for every wager: 1 credit for every 5 CAD spent on slots or electronic table games.\n<\/p>\n<br>\n<p> The program offers both long-term benefits and instant rewards. For example, new members receive 10 CAD in Free Slot Play upon registration. Regular promotions include large cash giveaways \u2014 up to 100,000 CAD in a single draw.\n<\/p>\n<br>\n<p> The SIGA Rewards mobile app allows members to track their tier status, join social tournaments, and receive tailored offers, making participation seamless and engaging.\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">SIGA Rewards Tiers<\/h4>\n     <ul>\n            <li>\u2022 Emerald: up to 500 credits\n<\/li>\n            <li>\u2022 Gold: 501 \u2013 10,000 credits\n<\/li>\n            <li>\u2022 Platinum: 10,001 \u2013 30,000 credits\n<\/li>\n <li>\u2022 Diamond: 30,001+ credits\n\n<\/li>\n        <\/ul>\n        <br>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Tier Benefits Include<\/h4>\n        <ul>\n            <li>\u2022 Increased reward points: +5% \/ +10% \/ +15%\n<\/li>\n            <li>\u2022 SIGA restaurant discounts\n<\/li>\n            <li>\u2022 Access to exclusive events and draws\n<\/li>\n <li>\u2022 Priority lines and preferred parking\n<\/li>\n <li>\u2022 Birthday gifts\n<\/li>\n<li>\u2022 Presale access to concerts and shows\n\n<\/li>\n        <\/ul>\n        <br>\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Gold Horse Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\n Bonuses & Wins  at Gold Horse Casino\n<\/h3>\n\n<p> Gold Horse Casino delights guests with generous bonuses, cash draws, and themed events that turn gaming into a celebration. Each month features multiple promotions tied to slot machines, live tables, and culinary evenings. The casino embraces seasonal occasions \u2014 Halloween, Christmas, New Year\u2019s \u2014 to offer players extra chances to win and enjoy unforgettable experiences.\n<\/p>\n<br>\n<p> Entertainment includes concerts, parties, dinners with live music, and themed shows. These events often come with cash prizes, free play, and special offers. Even newcomers can start with no-deposit bonuses, while regulars enjoy access to high-value promotions with prize pools reaching hundreds of thousands of dollars.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and events<\/h4>\n\n\n        <ul>\n            <li>\u2022 The Next Level \u2014 a prize draw series with a total of 250,000 CAD\n\n<\/li>\n            <li>\u2022 Spooky Spins (Halloween) \u2014 bonus spins with a chance to win up to 313 CAD in Free Slot Play <\/li>\n            <li>\u2022 Progressive Quick Draws \u2014 random slot draws awarding 650 CAD cash to each winner<\/li>\n            <li>\u2022 Lobster Feast \u2014 gourmet dinner with lobster, mussels, steak, and live music.<\/li>\n\t    <li>\u2022 New Year\u2019s Eve with The Johner Brothers \u2014 live concert, dancing, and late-night dining<\/li>\n\t    <li>\u2022 Christmas Party with Summer of 69 \u2014 Bryan Adams tribute show, dinner, and dancing until midnight<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Entertainment at Gold Horse Casino\n<\/h3>\n\n<p>Gold Horse Casino offers a wide variety of games that appeal to both beginners and seasoned players. The gaming floor features over 250 modern slot machines, including progressive jackpot slots where winnings can reach millions. Live tables offer classic and unique games, while electronic terminals provide digital versions of popular table games for those who prefer a quicker experience.\n<\/p>\n<br>\n<p> Favorites among players include Blackjack, Poker, and Roulette, along with exclusive titles like Phil\u2019em Up and Chase the Flush. Electronic terminals allow guests to play baccarat, blackjack, and roulette without waiting for a seat. The casino frequently updates its slot machines with new releases from top providers like IGT, Aristocrat, and AGS.\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n   \n       \n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Live Table Games<\/h4>\n          <ul>\n            <li>\u2022 Blackjack, Blackjack Switch\n<\/li>\n            <li>\u2022 Chase the Flush, Phil\u2019em Up\n<\/li>\n            <li>\u2022 Roulette and Poker (2 cash tables) <\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Electronic Gaming Terminals<\/h4>\n        <ul>\n            <li>\u2022 Digital versions of Blackjack, Roulette, Baccarat\n<\/li>\n            <li>\u2022 18 terminals available during all open hours<\/li>\n        <\/ul>\n        <br>\n     <h4 style = \"font-weight: bold; font-size: 24px;\">Slot Machines<\/h4>\n           <ul>\n            <li>\u2022 Over 250 machines with various themes\n<\/li>\n            <li>\u2022 Progressive slots: Smoke Signals (jackpot from 1 to 2 million CAD), Rider Nation (from 50,000 to 100,000 CAD)<\/li>\n          \n        <\/ul>\n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting at Gold Horse Casino: From Casual to High Stakes\n<\/h3>\n\n<p> Gold Horse Casino offers flexible betting options suitable for both casual players and high rollers. Minimum bets allow for low-risk entertainment, while higher limits open the door to big wins. Bet ranges vary depending on the game type \u2014 slot machines, live tables, or electronic terminals \u2014 giving every guest the ability to choose their ideal play style and manage their budget effectively.<\/p>\n\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#121922; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.01 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 CAD <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Progressive Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.25 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 5 CAD (per spin) <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 500\u20131,000 CAD <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 CAD<\/td>\n                <\/tr>\n            <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Live))<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1,000 CAD<\/td>\n                <\/tr>\n            <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100\u2013250 CAD\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nShows & Entertainment at Gold Horse Casino\n<\/h3>\n\n<p> Gold Horse Casino is more than just a gaming venue \u2014 it\u2019s a vibrant entertainment hub in Lloydminster. The casino hosts regular concerts, themed parties, culinary events, and seasonal shows that attract guests from across the region. It offers a unique blend of live music, dining, dancing, and festive atmosphere that makes every visit memorable.\n<\/p>\n<br>\n<p>Special attention is given to recurring events, such as the Lobster Feast, corporate Christmas parties, and New Year\u2019s Eve celebrations. In December, guests enjoy two nights with the Summer of 69 tribute band, performing Bryan Adams hits alongside dinner and dancing. On New Year\u2019s Eve, The Johner Brothers take the stage for a country music celebration, complete with a late-night meal and dancing.\n<\/p>\n<br>\n<p> The casino also features evening entertainment, including DJ sets after concerts, dancing, and late-night dining. While there\u2019s no dedicated nightclub, many events evolve into dance parties with live music and DJs. Tickets are available online or at the casino\u2019s box office, open daily from 10:00 AM to midnight.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Events & Entertainment<\/h4>\n\n\n        <ul>\n            <li>\u2022 Lobster Feast \u2014 lobster, mussels, steak dinner with live music. \n<\/li>\n            <li>\u2022 Christmas Party with Summer of 69 \u2014 Bryan Adams tribute show, dinner, and dancing\n<\/li>\n            <li>\u2022 New Year\u2019s Eve with The Johner Brothers \u2014 concert, festive dinner, dancing, and DJ\n<\/li>\n            <li>\u2022 Spooky Spins (Halloween) \u2014 bonus spins and themed atmosphere\n<\/li>\n\t    <li>\u2022 Progressive Quick Draws \u2014 random cash draws for slot players\n<\/li>\n            <li>\u2022 Dallas Smith Live \u2014 concert by the country music star\n<\/li>\n            <li>\u2022 The Beat Goes On \u2014 Cher tribute show\n<\/li>\n            <li>\u2022 Madeline Merlo & Shawn Austin \u2014 modern country music night\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTaste, Comfort & Stay: Dining and Lodging Near Gold Horse Casino\n<\/h3>\n\n<p>Gold Horse Casino offers guests more than just gaming \u2014 it\u2019s a place to relax, dine, and enjoy quality hospitality. On-site, the Bar & Grill Restaurant serves Canadian favorites like steaks, seafood, and signature appetizers in a cozy setting. Weekend evenings feature culinary events such as the \u201cLobster Feast,\u201d with lobster, mussels, salads, and warm rolls. For quick bites and drinks, the Deli & Bar is open daily, offering snacks, cocktails, and house-brewed SIGA Lager.\n<\/p>\n<br>\n<p> While the casino doesn\u2019t have its own hotel, several nearby accommodations make it easy to stay overnight. Popular choices include Bcminns Lloydminster, Home Inn & Suites, Super 8 by Wyndham, and Border Inn and Suites \u2014 all within 1 km of the casino. These hotels offer comfortable rooms, breakfast options, and amenities for both leisure and business travelers, making Gold Horse Casino a perfect destination for an evening out and a restful night.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dining & Lodging Options<\/h4>\n\n\n        <ul>\n            <li>\u2022 Bar & Grill Restaurant \u2014 full menu, cozy ambiance, evening food events\n<\/li>\n            <li>\u2022 Deli & Bar \u2014 snacks and drinks, open daily from 11:00 AM to 2:00 AM\n<\/li>\n            <li>\u2022 Kookum\u2019s Kitchen \u2014 Indigenous-inspired dishes available at the Deli\n<\/li>\n            <li>\u2022 Bcminns Lloydminster \u2014 800 m from casino, comfortable rooms\n<\/li>\n\t    <li>\u2022 Home Inn & Suites \u2014 business-friendly hotel, 700 m away\n<\/li>\n            <li>\u2022 Super 8 by Wyndham \u2014 budget option right next to the casino\n<\/li>\n\t    <li>\u2022 Border Inn and Suites \u2014 spacious rooms, fireplace, breakfast, 1.3 km away\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to register to play?",
+                    "answer": "No, registration is optional but unlocks bonuses.\n\n\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit\/debit cards, and internal top-up systems.\n\n\n"
+                },
+                {
+                    "title": "Can I use foreign currency?",
+                    "answer": "No, all transactions are in Canadian dollars (CAD).\n\n\n"
+                },
+                {
+                    "title": "Can I reserve tables?",
+                    "answer": "Yes, reservations are available for VIP and events.\n\n\n"
+                },
+                {
+                    "title": "Is the casino open 24\/7?",
+                    "answer": "No, hours are 10:00 AM to 3:00 AM (Fri\u2013Sat until 4:00 AM).\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/500",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Paf Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

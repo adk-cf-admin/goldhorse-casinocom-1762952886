@@ -1,0 +1,19 @@
+{
+  "name": "Gold Horse Casino",
+  "short_name": "Gold Horse Casino",
+  "theme_color": "",
+  "background_color": "#121922",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1762947444-favicon-wwwgoldhorsecasinoca.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
